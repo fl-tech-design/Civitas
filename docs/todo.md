@@ -1,12 +1,12 @@
 # Civitas Todo
 
 ## Phase 0 – Projektbasis
-- [ ] Projektdefinition v0.1 finalisieren
+- [X] Projektdefinition v0.1 finalisieren
 - [X] Projektordner erstellen
-- [ ] README.md erstellen
-- [ ] .gitignore erstellen
-- [ ] Git initialisieren
-- [ ] Godot 4 installieren
+- [X] README.md erstellen
+- [X] .gitignore erstellen
+- [X] Git initialisieren
+- [X] Godot 4 installieren
 - [ ] Godot-Projekt in /game anlegen
 
 ## Phase 1 – Welt und Charakter

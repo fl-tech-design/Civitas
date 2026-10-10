@@ -1,0 +1,16 @@
+# Godot 4 specific
+.godot/
+
+# Builds and exports
+*.pck
+*.zip
+export/
+build/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
